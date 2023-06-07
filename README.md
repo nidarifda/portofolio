@@ -6,7 +6,7 @@
 - B.A., Administration | Infrastructure University of Kuala Lumour ( September 2015 - July 2018 )
 
 ## Work Experience
-**Data Analyst @ Accneutre (_May 2019 - April 2023_)**
+**Data Analyst @ Accenture (_May 2019 - April 2023_)**
 - Performed Statistical analysis of analyst performance each week
 - Evaluate various trends to understand and assess competitive environment and current strategies for clients
 - Providing feedback and suggestions on the review process and workflow
