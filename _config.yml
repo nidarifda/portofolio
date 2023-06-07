@@ -1,5 +1,5 @@
 title: Nida Rifda Chairuli
 logo: /assets/img/headshot_circle.png
-#description: Data Analyst
-#show_download: true
-theme: jelly-theme-minimal
+#description: text below image
+show_downloads: true
+theme: jekyll-theme-minimal
