@@ -2,10 +2,10 @@
 I am a data-driven professional with expertise in delivering actionable insights and driving business performance through rigorous analysis and advanced methodologies. With a strong background in data science and business analytics, I excel at transforming complex data into strategic recommendations that guide decision-making and optimise operational efficiency. Throughout my career, I have demonstrated the ability to interpret data, identify trends, and develop solutions that align with company growth and client KPIs. My experience includes managing high-volume data processing environments, ensuring compliance, and improving operational procedures, resulting in enhanced performance metrics. Currently, I am focused on refining my technical skills in data engineering and analytics to build robust data pipelines, model business problems, and create impactful visualisations that support data-driven decision-making.
 
 # Education
-MSc in Data Science and Business Analytics
-Asia Pacific University
-_June 2024 – Present_
-Course Focus: Data Engineer
+##MSc in Data Science and Business Analytics
+##Asia Pacific University
+##_June 2024 – Present_
+##Course Focus: Data Engineer
 
 Bachelor in Business Administration (Hons)
 Infrastructure University of Kuala Lumpur
