@@ -4,17 +4,17 @@ I am a data-driven professional with expertise in delivering actionable insights
 ## Education
 
 ### Asia Pacific University  
-*Master of Science in Data Science and Business Analytics*
-**Course Focus:** Data Engineering
+*Master of Science in Data Science and Business Analytics*  
 _June 2024 – Present_  
-
+**Course Focus:** Data Engineering
 
 ---
 
 ### Infrastructure University of Kuala Lumpur  
-*Bachelor of Business Administration (Hons)*
-**Course Focus:** Finance and Banking
+*Bachelor of Business Administration (Hons)*  
 _September 2015 – June 2018_  
+**Course Focus:** Finance and Banking
+  
 
 
 
